@@ -1,4 +1,4 @@
-# Group 2: Project Proposal
+# Group 3: Project Proposal
 
 ### Question of interest and objective
 
