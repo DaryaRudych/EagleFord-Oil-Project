@@ -33,8 +33,4 @@ In this project we intend to produce some basic visualizations (matplotlib) and 
 
 ### Key Limitations/Uncertainities
 
-<<<<<<< HEAD
-TBD 
-=======
 TBD
->>>>>>> d072e028a1747dd9134e48619b7b21edefb7180d
