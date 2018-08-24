@@ -1,10 +1,12 @@
-# Group 2: Project Proposal
+# Group 3: Project Proposal
 
 ### Question of interest and objective
 
 https://1dhqyu3drpye39jm482ecnjl-wpengine.netdna-ssl.com/wp-content/uploads/2014/08/Eagle_Ford_Shale_Oil_Gravity-1024x662.png
 
 In this project we will look at Eagle Ford Shale Play oil wells, all of which are located in the state of Texas, to investigate potential patterns in Eagle Ford oil production and compare production by operator and sub-play with an ultimate goal of predicting production in later projects of this course. 
+
+![EagleFOrd](https://1dhqyu3drpye39jm482ecnjl-wpengine.netdna-ssl.com/wp-content/uploads/2014/08/Eagle_Ford_Shale_Oil_Gravity-1024x662.png)
 
 ### Dataset
 
@@ -31,4 +33,8 @@ In this project we intend to produce some basic visualizations (matplotlib) and 
 
 ### Key Limitations/Uncertainities
 
+<<<<<<< HEAD
 TBD 
+=======
+TBD
+>>>>>>> d072e028a1747dd9134e48619b7b21edefb7180d
