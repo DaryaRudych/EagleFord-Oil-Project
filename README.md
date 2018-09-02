@@ -29,6 +29,12 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 ## STEP 2: VISUALIZING THE GEOGRAPHIC EXTENT OF THE DATA
 
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/EagleFordWells.png)
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/EagleFordSubPlays.png)
+
+## STEP 3: ACTIVITY BY SUB-PLAY
+
+
 
 
 ### Key Limitations/Uncertainities
