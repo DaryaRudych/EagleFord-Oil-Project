@@ -1,0 +1,57 @@
+#Cumulative Avg cost of wells
+well_cost_sum = 6962509
+well_cost_sum
+
+#Add 5 cost categories
+sLength = 5
+sLength
+
+#Avg Cost by Category
+preference = ({'Other Cost':3556165,
+'Pumping':1559534,
+'Rig':661654,
+'Water':586413,
+'Propant':598740
+})
+
+
+# sort preference in descending order
+weights, labels = zip(*sorted(((pref,genre) for genre,pref in preference.items()), reverse=True))
+
+for i in weights:
+
+ cumu_1 = weights[0]/well_cost_sum
+ cumu_2 = ((weights[1] + cumu_1)/well_cost_sum)+cumu_1
+ cumu_3 = ((weights[2] + cumu_2)/well_cost_sum)+cumu_2
+ cumu_4 = ((weights[3] + cumu_3)/well_cost_sum)+cumu_3
+ cumu_5 = ((weights[4] + cumu_4)/well_cost_sum)+cumu_4
+
+
+
+cumu_weights = [cumu_1,cumu_2, cumu_3, cumu_4, cumu_5]
+
+print(cumu_weights)
+
+
+
+# lefthand edge of each bar
+
+left = np.arange(len(weights))
+fig, ax1 = plt.subplots()
+ax2 = ax1.twinx()
+ax1.bar(left, weights, 0.75,color='b',align="center")
+plt.rcParams["figure.figsize"] = [12,10]
+
+ax1.set_xticks(left)
+ax1.set_xticklabels(labels,fontsize=12,fontweight='bold', rotation=60, color='black')
+
+ax2.plot(cumu_weights, color ='green',linewidth=4)
+plt.title("Average Well Cost Totals")
+ax1.set_ylabel('Well Cost US$', color='b')
+ax2.set_ylabel('Cumulative Cost', color='g')
+ax2.set_ylim([0, 1.1])
+
+plt.title("Avg Well Cost with Cumlative Cost % by Cost Category")
+plt.grid(False)
+ # Save Figure
+plt.savefig("C:/Users/Sal/Desktop/pareto.png")
