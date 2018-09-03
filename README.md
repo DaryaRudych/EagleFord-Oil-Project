@@ -42,12 +42,13 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 - Black Oil and Karnes Trough are largest sub-plays in Eagle Ford Play
 - The production of oil&gas peaked by 2015. In October 2015 the price of crude oil has dropped significantly resulting in the major short-term drop in investment and downward trend in production reflected by the graph. The industry has recovered in 2017. However, the incomplete data for 2017 does not allow us to see whether the production has actually returned to the levels of 2015.
 
-## STEP 3: ACTIVITY BY SUB-PLAY
+## STEP 3: VISUALIZING ACTIVITY BY SUB-PLAY
 
-### Visualizing activity by Sub-play 
+### Well & Operator count by Sub-play 
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/ActivityBySubPlay.png)
 
-
+### 
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/EURbySubPlay.png)
 
 ### Key Limitations/Uncertainities
 
