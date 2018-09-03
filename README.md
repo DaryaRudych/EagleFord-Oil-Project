@@ -24,8 +24,7 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 ## Analysis Outline:
 
 ## STEP 1: DATA CLEANING 
-
-*** Paste code of dropping null values
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/Code%20snippet.png)
 
 ## STEP 2: VISUALIZING THE GEOGRAPHIC & TEMPORAL EXTENT OF THE DATA
 
