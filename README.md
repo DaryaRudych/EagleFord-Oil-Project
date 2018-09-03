@@ -47,8 +47,27 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 ### Well & Operator count by Sub-play 
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/ActivityBySubPlay.png)
 
-### 
+* Here we can see that Black Oil and Karnes Trough have the most activity both in terms of number of operators and the number of drills.
+
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/EURbySubPlay.png)
+
+* However, Southeast Gas, Southwest Gas, and Maverisck Condensate, that have the lowest well count, have a higher average BOE production. This, in turn, suggest the need for further analysis where the average EUR needs to be normalized by the well count.
+
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/ProdBySubPlay.png)
+
+* Yet, Southeast and Southwest Gas appear to be rich in gas assets rather than oil assets. As we are interested primarily in oil, the chart suggest we should further focus on Karnes Trough, Edwards Condensate, and Black Oil which have highest average oil production respectively. 
+
+* Since investors usually prefer quicker producing areas, and since Karnes Trough and Edwards Condensate have roughly similar average oil production, we also want to look which of the sub-plays produce more during the first year of production. 
+
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/AvgFirstYearProd.png)
+
+* This chart suggest that Edwards Condensate and Karnes Trough produce more in the first year, while Black Oil has one of the lowest oil production levels during the first year.
+
+**Takeaway from activity analysis:**
+- Edwards Condensate and Karnes Trough sub-plays are more rich in oil assets and are faster to produce high volumes of oil. 
+- Now, that we have identified Edwards Condensate and Karnes Trough as the highest producing aub-plays, let's compare the costs across sub-plays to determine what sub-plays will have the higher rate of return on investment. 
+
+## STEP 4: COMPARING THE COSTS BY SUB-PLAY
 
 ### Key Limitations/Uncertainities
 
