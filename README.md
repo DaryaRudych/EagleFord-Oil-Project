@@ -65,10 +65,38 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 **Takeaway from activity analysis:**
 - Edwards Condensate and Karnes Trough sub-plays are more rich in oil assets and are faster to produce high volumes of oil. 
-- Now, that we have identified Edwards Condensate and Karnes Trough as the highest producing aub-plays, let's compare the costs across sub-plays to determine what sub-plays will have the higher rate of return on investment. 
+- Now, that we have identified Edwards Condensate and Karnes Trough as the highest producing sub-plays, let's compare the costs across sub-plays to determine what sub-plays will have the higher rate of return on investment. 
 
 ## STEP 4: COMPARING THE COSTS BY SUB-PLAY
 
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/AvgWellCostBySubPlay.png)
+
+* The Karnes Trough and Edwards Condensate have roughly same average production costs, sitting around $7.2m and $7.5m respectively.
+
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/CostBreakdown.png)
+
+* Looking at Edwards Condensate and Karnes Trough, they appear to have relatively same development costs. Karnes Trough has slightly higher "Other Cost", though. (*Dataframe sorted by Other Cost)
+
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/Drilling%20Cost%20Per%20Foot.png)
+
+* In terms of drilling costs (other costs and rig costs combined) Maverick sub-play overall looks to be the most expensive area which could be due to the specifics of geological formation it belongs to.  Other Eagle Ford could be wildcats and other areas not benefitting from development mode cost reductions. The Karnes adn Edwards are one of the cheapest places to drill.
+
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/Completion%20Cost%20Per%20Foot.png)
+* Completion costs (water, proppant, and pumping costs) are indicative of completion methods. Historically, completions have increased with time. Our target Sub-Plays are a little above average, but not prohibitively high. Average lateral lengths range from 4,500' to 11,500 ft.
+* Overall, the Maverick Oil sub-play is the most expensive area on average. Steering clear of that area is advised.
+
+## STEP 5: ANALYZING ROI RATES BY SUB-PLAY
+
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/CostPerBOE.png)
+
+* When we normalize the costs by production volume, Edwards Condensate is nearly 30,000 (USD) per 1,000 barrels of oil equivalent, while Karnes Trough is almost 50,000 (USD) per 1,000 barrels of oil equivalent.
+
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/AvgDrilling%26Completions.png)
+
+* This, again, proves that while Edwards and Karnes have similar costs, your dollar goes further in the Edwards.
+
+## Conclusion: (to be edited)
+We chose to target the Karnes Trough and Edwards Condensate sub-plays. We anticipate our overall individual well costs to have a minimum of ____ and a maximum of ____. Our drilling cost min and max are respectively ___ and ____. Completions ____ and ____. Our area is significantly derisked not only by the activity in the area, but also our ML model variables contributing to a successful payout.
 ### Key Limitations/Uncertainities
 
 TBD
