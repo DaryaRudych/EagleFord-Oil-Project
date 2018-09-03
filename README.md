@@ -95,7 +95,8 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 * This, again, proves that while Edwards and Karnes have similar costs, your dollar goes further in the Edwards.
 
-
+## Conclusion: (to be edited)
+We chose to target the Karnes Trough and Edwards Condensate sub-plays. We anticipate our overall individual well costs to have a minimum of ____ and a maximum of ____. Our drilling cost min and max are respectively ___ and ____. Completions ____ and ____. Our area is significantly derisked not only by the activity in the area, but also our ML model variables contributing to a successful payout.
 ### Key Limitations/Uncertainities
 
 TBD
