@@ -70,7 +70,7 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 * Let's first look at different cost categories and how they contribute to the total well cost 
 
-![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/PARETO.png)
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/pareto.png)
 
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/AvgWellCostBySubPlay.png)
 
