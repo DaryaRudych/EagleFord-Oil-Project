@@ -103,6 +103,8 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/austin/byLL.JPG)
 
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/austin/byMD.JPG)
+
 * This, again, proves that while Edwards and Karnes have similar costs, your dollar goes further in the Edwards.
 
 ## Conclusion: (to be edited)
