@@ -46,7 +46,7 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 ### Well & Operator count by Sub-play 
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/ActivityBySubPlay.png)
 
-* Here we can see that Black Oil and Karnes Trough have the most activity both in terms of number of operators and the number of drills.
+* Here we can see that Black Oil, Karnes Trough, and Edwards Condensate have the most activity both in terms of number of operators and the number of drills.
 
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/EURbySubPlay.png)
 
