@@ -103,9 +103,11 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 * We can use lateral length to estimate completions costs
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/austin/byLL.JPG)
+* **Karnes Trough** (green) and **Edwards Condensate** (gray) are slightly above average.
 
 * We can use MD to estiamte drilling costs
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/austin/byMD.JPG)
+* **Karnes Trough** (light blue) and **Edwards Condensate** (ornage) have below average drilling costs.
 
 * This, again, proves that while Edwards and Karnes have similar costs, your dollar goes further in the Edwards.
 
