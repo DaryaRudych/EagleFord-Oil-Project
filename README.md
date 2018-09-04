@@ -101,6 +101,8 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 * When we normalize the costs by production volume, Edwards Condensate is nearly 30,000 (USD) per 1,000 barrels of oil equivalent, while Karnes Trough is almost 50,000 (USD) per 1,000 barrels of oil equivalent.
 
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/austin/byLL.JPG)
+
 * This, again, proves that while Edwards and Karnes have similar costs, your dollar goes further in the Edwards.
 
 ## Conclusion: (to be edited)
