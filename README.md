@@ -68,6 +68,9 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 ## STEP 4: COMPARING THE COSTS BY SUB-PLAY
 
+* Let's first look at different cost categories and how they contribute to the total well cost 
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/PARETO.png)
+
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/AvgWellCostBySubPlay.png)
 
 * The Karnes Trough and Edwards Condensate have roughly same average production costs, sitting around $7.2m and $7.5m respectively.
