@@ -92,11 +92,7 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 * Completion costs (water, proppant, and pumping costs) are indicative of completion methods. Historically, completions have increased with time. Our target Sub-Plays are a little above average, but not prohibitively high. Average lateral lengths range from 4,500' to 11,500 ft.
 * Overall, the Maverick Oil sub-play is the most expensive area on average. Steering clear of that area is advised.
 
-## STEP 5: ANALYZING ROI RATES BY SUB-PLAY
-
-![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/CostPerBOE.png)
-
-* When we normalize the costs by production volume, Edwards Condensate is nearly 30,000 (USD) per 1,000 barrels of oil equivalent, while Karnes Trough is almost 50,000 (USD) per 1,000 barrels of oil equivalent.
+## STEP 5: ANALYZING AVERAGE DEPTHS FOR COSTS
 
 * We can use lateral length to estimate completions costs
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/austin/byLL.JPG)
@@ -104,12 +100,12 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 * We can use MD to estiamte drilling costs
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/austin/byMD.JPG)
-* **Karnes Trough** (light blue) and **Edwards Condensate** (ornage) have below average drilling costs.
+* **Karnes Trough** (light blue) and **Edwards Condensate** (orange) have below average drilling costs.
 
 * This, again, proves that while Edwards and Karnes have similar costs, your dollar goes further in the Edwards.
 
 ## Conclusion:
-We chose to target the Karnes Trough and Edwards Condensate sub-plays. We anticipate our overall well costs to average between $8,155,623 and $8,465,613. Our drilling costs respectively $4,020,315 and $4,174,140. Completions $4,135,308 and $4,291,473. Our area is significantly derisked not only by the activity in the area, but also our ML model variables contributing to a successful payout.
+We chose to target the **Karnes Trough** and **Edwards Condensate** sub-plays because of their oil to gas ratio and also their high production rates. We anticipate our overall well costs to average between $8,155,623 and $8,465,613. Our drilling costs respectively $4,020,315 and $4,174,140. Completions $4,135,308 and $4,291,473. Our area is significantly derisked not only by the activity in the area, but also our ML model variables contributing to a successful payout.
 ### Key Limitations/Uncertainities
 * Each sub-play is not the same area, normalizing by area could be beneficial.  We're alos painting our geographic regions with a large brush.  Within each sub-play are better and worse areas.
 * We are ultimately using state filed data. It can be 1 to 2 years behind, and in some cases lumps wells together.
