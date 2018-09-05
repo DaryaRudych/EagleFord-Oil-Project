@@ -46,7 +46,7 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 ### Well & Operator count by Sub-play 
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/ActivityBySubPlay.png)
 
-* Here we can see that **Black Oil**, **Karnes Trough**, and **Edwards Condensate** have the most activity both in terms of number of operators and the number of drills.  Areas with lower wells and activity are more risky.
+* Here we can see that **Black Oil**, **Karnes Trough**, and **Edwards Condensate** have the most activity both in terms of number of operators and the number of wells.  Typically, areas with lower well counts and activity are more risky.
 
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/v2/EURbySubPlay_v2.png)
 
@@ -112,5 +112,7 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 ## Conclusion:
 We chose to target the Karnes Trough and Edwards Condensate sub-plays. We anticipate our overall well costs to average between $8,155,623 and $8,465,613. Our drilling costs respectively $4,020,315 and $4,174,140. Completions $4,135,308 and $4,291,473. Our area is significantly derisked not only by the activity in the area, but also our ML model variables contributing to a successful payout.
 ### Key Limitations/Uncertainities
+* Each sub-play is not the same area, normalizing by area could be beneficial.  We're alos painting our geographic regions with a large brush.  Within each sub-play are better and worse areas.
+* We are ultimately using state filed data. It can be 1 to 2 years behind, and in some cases lumps wells together.
 
 TBD
