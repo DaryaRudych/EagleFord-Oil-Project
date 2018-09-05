@@ -72,7 +72,7 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/pareto.png)
 
-![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/AvgWellCostBySubPlay.png)
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/v2/AvgWellCostBySubPlay_v2.png)
 
 * The Karnes Trough and Edwards Condensate have roughly same average production costs, sitting around $7.2m and $7.5m respectively.
 
