@@ -48,7 +48,7 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 * Here we can see that Black Oil, Karnes Trough, and Edwards Condensate have the most activity both in terms of number of operators and the number of drills.
 
-![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/EURbySubPlay.png)
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/v2/EURbySubPlay_v2.png)
 
 * However, Southeast Gas, Southwest Gas, and Maverisck Condensate, that have the lowest well count, have a higher average BOE production. This, in turn, suggest the need for further analysis where the average EUR needs to be normalized by the well count.
 
