@@ -52,7 +52,7 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 * However, Southeast Gas, Southwest Gas, and Maverisck Condensate, that have the lowest well count, have a higher average BOE production. This, in turn, suggest the need for further analysis where the average EUR needs to be normalized by the well count.
 
-![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/ProdBySubPlay.png)
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/v2/prod_by_subplay_v2.png)
 
 * Yet, Southeast and Southwest Gas appear to be rich in gas assets rather than oil assets. As we are interested primarily in oil, the chart suggest we should further focus on Karnes Trough, Edwards Condensate, and Black Oil which have highest average oil production respectively. 
 
