@@ -80,7 +80,7 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 * Looking at Edwards Condensate and Karnes Trough, they appear to have relatively same development costs. Karnes Trough has slightly higher "Other Cost", though. (*Dataframe sorted by Other Cost)
 
-![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/v2/Drilling%Cost%Per%Foot_v2.png)
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/v2/Drilling Cost Per Foot_v2.png)
 
 * In terms of drilling costs (other costs and rig costs combined) Maverick sub-play overall looks to be the most expensive area which could be due to the specifics of geological formation it belongs to.  Other Eagle Ford could be wildcats and other areas not benefitting from development mode cost reductions. The Karnes adn Edwards are one of the cheapest places to drill.
 
