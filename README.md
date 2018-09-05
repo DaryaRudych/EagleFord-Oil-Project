@@ -32,11 +32,12 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 ## STEP 2: VISUALIZING THE GEOGRAPHIC & TEMPORAL EXTENT OF THE DATA
 
-### The extent of each sub-play in Eagle Ford
-![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/EagleFordSubPlays.png)
-
 ### Eagle Ford map by commodity type
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/EagleFordWells.png)
+* We were interested in oil rich areas, but state-filed production type was not indicative of asstes we were interested in.
+
+### The extent of each sub-play in Eagle Ford
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/EagleFordSubPlays.png)
 
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/ProdByYear.png)
 
