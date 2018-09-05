@@ -41,12 +41,12 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 - Black Oil and Karnes Trough are largest sub-plays in Eagle Ford Play
 - The production of oil&gas peaked by 2015. In October 2015 the price of crude oil has dropped significantly resulting in the major short-term drop in investment and downward trend in production reflected by the graph. The industry has recovered in 2017. However, the incomplete data for 2017 does not allow us to see whether the production has actually returned to the levels of 2015.
 
-## STEP 3: VISUALIZING ACTIVITY BY SUB-PLAY
+## STEP 3: VISUALIZING ACTIVITY & PRODUCTION BY SUB-PLAY
 
 ### Well & Operator count by Sub-play 
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/ActivityBySubPlay.png)
 
-* Here we can see that Black Oil, Karnes Trough, and Edwards Condensate have the most activity both in terms of number of operators and the number of drills.
+* Here we can see that **Black Oil**, **Karnes Trough**, and **Edwards Condensate** have the most activity both in terms of number of operators and the number of drills.  Areas with lower wells and activity are more risky.
 
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/v2/EURbySubPlay_v2.png)
 
@@ -63,25 +63,30 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 * This chart suggest that Edwards Condensate and Karnes Trough produce more in the first year, while Black Oil has one of the lowest oil production levels during the first year.
 
 **Takeaway from activity analysis:**
-- Edwards Condensate and Karnes Trough sub-plays are more rich in oil assets and are faster to produce high volumes of oil. 
+- Edwards Condensate and Karnes Trough sub-plays are more oil rich and are faster to produce high volumes of oil. 
 - Now, that we have identified Edwards Condensate and Karnes Trough as the highest producing sub-plays, let's compare the costs across sub-plays to determine what sub-plays will have the higher rate of return on investment. 
 
 ## STEP 4: COMPARING THE COSTS BY SUB-PLAY
 
 * Let's first look at different cost categories and how they contribute to the total well cost 
-
-![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/pareto.png)
-
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/v2/AvgWellCostBySubPlay_v2.png)
 
-* The Karnes Trough and Edwards Condensate have roughly same average production costs, sitting around $7.2m and $7.5m respectively.
+* The **Karnes Trough** (purple) and **Edwards Condensate** (green) have roughly same average production costs, sitting around $7.2m and $7.5m respectively.
 
+* Break them out one step further into Drilling and Completions
+
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/AvgDrilling%26Completions.png)
+
+* Here are the different cost categories and how they contribute to average total well cost. 
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/pareto.png)
+
+* Let's break the costs down further for each sub-play average to see differences in all cost categories.
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/CostBreakdown.png)
 
-* Looking at Edwards Condensate and Karnes Trough, they appear to have relatively same development costs. Karnes Trough has slightly higher "Other Cost", though. (*Dataframe sorted by Other Cost)
+* Looking at **Edwards Condensate** and **Karnes Trough**, they appear to have relatively same development costs. Karnes Trough has slightly higher "Other Cost", though. (*Dataframe sorted by ***Other Cost***). Southeast Gas has very low proppant and low water, indicating a smaller completion method.
 
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/v2/Drilling%20Cost%20Per%20Foot_v2.png)
-
+* **Karnes Trough** (light blue) and **Edwards Condensate** (ornage) have lower than average drilling costs.
 * In terms of drilling costs (other costs and rig costs combined) Maverick sub-play overall looks to be the most expensive area which could be due to the specifics of geological formation it belongs to.  Other Eagle Ford could be wildcats and other areas not benefitting from development mode cost reductions. The Karnes adn Edwards are one of the cheapest places to drill.
 
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/v2/Completion%20Cost%20Per%20Foot_v2.png)
@@ -94,12 +99,18 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 * When we normalize the costs by production volume, Edwards Condensate is nearly 30,000 (USD) per 1,000 barrels of oil equivalent, while Karnes Trough is almost 50,000 (USD) per 1,000 barrels of oil equivalent.
 
-![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/AvgDrilling%26Completions.png)
+* We can use lateral length to estimate completions costs
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/austin/byLL.JPG)
+* **Karnes Trough** (green) and **Edwards Condensate** (gray) are slightly above average.
+
+* We can use MD to estiamte drilling costs
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/austin/byMD.JPG)
+* **Karnes Trough** (light blue) and **Edwards Condensate** (ornage) have below average drilling costs.
 
 * This, again, proves that while Edwards and Karnes have similar costs, your dollar goes further in the Edwards.
 
-## Conclusion: (to be edited)
-We chose to target the Karnes Trough and Edwards Condensate sub-plays. We anticipate our overall individual well costs to have a minimum of ____ and a maximum of ____. Our drilling cost min and max are respectively ___ and ____. Completions ____ and ____. Our area is significantly derisked not only by the activity in the area, but also our ML model variables contributing to a successful payout.
+## Conclusion:
+We chose to target the Karnes Trough and Edwards Condensate sub-plays. We anticipate our overall well costs to average between $8,155,623 and $8,465,613. Our drilling costs respectively $4,020,315 and $4,174,140. Completions $4,135,308 and $4,291,473. Our area is significantly derisked not only by the activity in the area, but also our ML model variables contributing to a successful payout.
 ### Key Limitations/Uncertainities
 
 TBD
