@@ -21,6 +21,10 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 4.	Compare sub-plays by Average Drilling Costs and Average Completions Costs
 5.	Once top two sub-plays are established, analyze competitor data to get potential minimum and maximum drilling and completion costs.
 
+## Key Terms:
+* Production: Oil, gas, barrel of oil equivalent (boe), Estimated Ultimate Recovery (EUR) and Total 365
+* Sub-play, operator, depths
+
 ## Analysis Outline:
 
 ## STEP 1: DATA CLEANING 
@@ -38,7 +42,7 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 **Takeaways from visualizations:**
 - most of wells in Eagle Ford produce oil
-- Black Oil and Karnes Trough are largest sub-plays in Eagle Ford Play
+- **Black Oil** and **Karnes Trough** are largest sub-plays in Eagle Ford Play
 - The production of oil&gas peaked by 2015. In October 2015 the price of crude oil has dropped significantly resulting in the major short-term drop in investment and downward trend in production reflected by the graph. The industry has recovered in 2017. However, the incomplete data for 2017 does not allow us to see whether the production has actually returned to the levels of 2015.
 
 ## STEP 3: VISUALIZING ACTIVITY & PRODUCTION BY SUB-PLAY
@@ -53,13 +57,13 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/v2/prod_by_subplay_v2.png)
 
-* Yet, Southeast and Southwest Gas appear to be rich in gas assets rather than oil assets. As we are interested primarily in oil, the chart suggest we should further focus on Karnes Trough, Edwards Condensate, and Black Oil which have highest average oil production respectively. 
+* Yet, **Southeast** and **Southwest Gas** appear to be rich in gas assets rather than oil assets. As we are interested primarily in oil, the chart suggest we should further focus on **Karnes Trough**, **Edwards Condensate**, and **Black Oil** which have highest average oil production respectively. 
 
 * Since investors usually prefer quicker producing areas, and since Karnes Trough and Edwards Condensate have roughly similar average oil production, we also want to look which of the sub-plays produce more during the first year of production. 
 
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/v2/AvgFirstYearProd_v2.png)
 
-* This chart suggest that Edwards Condensate and Karnes Trough produce more in the first year, while Black Oil has one of the lowest oil production levels during the first year.
+* This chart suggest that **Edwards Condensate** and **Karnes Trough** produce more in the first year, while Black Oil has one of the lowest oil production levels during the first year.
 
 **Takeaway from activity analysis:**
 - Edwards Condensate and Karnes Trough sub-plays are more oil rich and are faster to produce high volumes of oil. 
