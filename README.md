@@ -58,7 +58,7 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 * Since investors usually prefer quicker producing areas, and since Karnes Trough and Edwards Condensate have roughly similar average oil production, we also want to look which of the sub-plays produce more during the first year of production. 
 
-![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/AvgFirstYearProd.png)
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/v2/AvgFirstYearProd_v2.png)
 
 * This chart suggest that Edwards Condensate and Karnes Trough produce more in the first year, while Black Oil has one of the lowest oil production levels during the first year.
 
