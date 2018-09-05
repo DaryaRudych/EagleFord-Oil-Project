@@ -66,8 +66,8 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 * This chart suggest that **Edwards Condensate** and **Karnes Trough** produce more in the first year, while Black Oil has one of the lowest oil production levels during the first year.
 
 **Takeaway from activity analysis:**
-- Edwards Condensate and Karnes Trough sub-plays are more oil rich and are faster to produce high volumes of oil. 
-- Now, that we have identified Edwards Condensate and Karnes Trough as the highest producing sub-plays, let's compare the costs across sub-plays to determine what sub-plays will have the higher rate of return on investment. 
+- **Edwards Condensate** and **Karnes Trough** sub-plays are more oil rich and are faster to produce high volumes of oil. 
+- Now, that we have identified **Edwards Condensate** and **Karnes Trough** as the highest producing sub-plays, let's compare the costs across sub-plays to determine what sub-plays will have the higher rate of return on investment. 
 
 ## STEP 4: COMPARING THE COSTS BY SUB-PLAY
 
@@ -98,20 +98,20 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 ## STEP 5: ANALYZING AVERAGE DEPTHS FOR COSTS
 
-* We can use lateral length to estimate completions costs
-![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/austin/byLL.JPG)
-* **Karnes Trough** (green) and **Edwards Condensate** (gray) are slightly above average.
-
 * We can use MD to estiamte drilling costs
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/austin/byMD.JPG)
 * **Karnes Trough** (light blue) and **Edwards Condensate** (orange) have below average drilling costs.
 
-* This, again, proves that while Edwards and Karnes have similar costs, your dollar goes further in the Edwards.
+* We can use lateral length to estimate completions costs
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/austin/byLL.JPG)
+* **Karnes Trough** (green) and **Edwards Condensate** (gray) are slightly above average.
+
+* This, again, proves that while **Edwards** and **Karnes** have similar costs, your dollar goes further in the Edwards.
 
 ## Conclusion:
 We chose to target the **Karnes Trough** and **Edwards Condensate** sub-plays because of their oil to gas ratio and also their high production rates. We anticipate our overall well costs to average between $8,155,623 and $8,465,613. Our drilling costs respectively $4,020,315 and $4,174,140. Completions $4,135,308 and $4,291,473. Our area is significantly derisked not only by the activity in the area, but also our ML model variables contributing to a successful payout.
 ### Key Limitations/Uncertainities
-* Each sub-play is not the same area, normalizing by area could be beneficial.  We're alos painting our geographic regions with a large brush.  Within each sub-play are better and worse areas.
+* Each sub-play is not the same area, normalizing by area could be beneficial.  We're also painting our geographic regions with a large brush.  Within each sub-play are better and worse areas.
 * We are ultimately using state filed data. It can be 1 to 2 years behind, and in some cases lumps wells together.
 
 TBD
