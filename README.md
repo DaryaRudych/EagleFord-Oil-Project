@@ -100,7 +100,7 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 * We can use MD to estiamte drilling costs
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/austin/byMD.JPG)
-* **Karnes Trough** (light blue) and **Edwards Condensate** (orange) have below average drilling costs.
+* The **Karnes Trough** and **Edwards Condensate's** mean is close to the median, indicating a normal distribution.
 
 * We can use lateral length to estimate completions costs
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/austin/byLL.JPG)
