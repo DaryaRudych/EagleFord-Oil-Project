@@ -23,7 +23,7 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 ## Key Terms:
 * Production: Oil, gas, barrel of oil equivalent (boe), Estimated Ultimate Recovery (EUR) and Total 365
-* Sub-play, operator, depths
+* Sub-play, operator, horizontal v. vertical, depths
 
 ## Analysis Outline:
 
