@@ -39,6 +39,8 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 ### The extent of each sub-play in Eagle Ford
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/EagleFordSubPlays.png)
 
+* Breaking out wells by sub-play allowed us to evaluate the data at a more precise geographic resolution.
+
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/ProdByYear.png)
 
 **Takeaways from visualizations:**
