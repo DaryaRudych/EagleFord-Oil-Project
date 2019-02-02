@@ -81,13 +81,13 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 * Break them out one step further into Drilling and Completions
 
-![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/AvgDrilling%26Completions.png)
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/charts/AvgDrilling%26Completions.png)
 
 * Here are the different cost categories and how they contribute to average total well cost. 
-![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/pareto.png)
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/charts/pareto.png)
 
 * Let's break the costs down further for each sub-play average to see differences in all cost categories.
-![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/CostBreakdown.png)
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/charts/CostBreakdown.png)
 
 * Looking at **Edwards Condensate** and **Karnes Trough**, they appear to have relatively same development costs. Karnes Trough has slightly higher "Other Cost", though. (*Dataframe sorted by ***Other Cost***). Southeast Gas has very low proppant and low water, indicating a smaller completion method.
 
@@ -95,7 +95,7 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 * **Karnes Trough** (light blue) and **Edwards Condensate** (ornage) have lower than average drilling costs.
 * In terms of drilling costs (other costs and rig costs combined) Maverick sub-play overall looks to be the most expensive area which could be due to the specifics of geological formation it belongs to.  Other Eagle Ford could be wildcats and other areas not benefitting from development mode cost reductions. The Karnes adn Edwards are one of the cheapest places to drill.
 
-![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/v2/Completion%20Cost%20Per%20Foot_v2.png)
+![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/v2/Drilling%20Cost%20Per%20Foot_v2.png)
 * Completion costs (water, proppant, and pumping costs) are indicative of completion methods. Historically, completions have increased with time. Our target Sub-Plays are a little above average, but not prohibitively high. Average lateral lengths range from 4,500' to 11,500 ft.
 * Overall, the Maverick Oil sub-play is the most expensive area on average. Steering clear of that area is advised.
 
