@@ -1,4 +1,4 @@
-### Group 3: David Hickman, Austin Coleman, Sal Marino, Darya Rudych, Mauricio Gonzalez
+### Group 3: Darya Rudych, David Hickman, Austin Coleman, Sal Marino, Mauricio Gonzalez
 
 # Project Title: Analysis of Eagle Ford Oil&Gas Production
 
@@ -34,7 +34,7 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 ### Eagle Ford map by commodity type
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/charts/EagleFordWells.png)
-* We were interested in oil rich areas, but state-filed production type was not indicative of asstes we were interested in.
+* Since we were interested in oil rich areas, we color-coded wells by the asset type (green: gas, red: oil).
 
 ### The extent of each sub-play in Eagle Ford
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/charts/EagleFordSubPlays.png)
@@ -116,5 +116,3 @@ We chose to target the **Karnes Trough** and **Edwards Condensate** sub-plays be
 ### Key Limitations/Uncertainities
 * Each sub-play is not the same area, normalizing by area could be beneficial.  We're also painting our geographic regions with a large brush.  Within each sub-play are better and worse areas.
 * We are ultimately using state filed data. It can be 1 to 2 years behind, and in some cases lumps wells together.
-
-TBD
