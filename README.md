@@ -34,7 +34,7 @@ The dataset we are using has been obtained from an aggregating company Wood Mack
 
 ### Eagle Ford map by commodity type
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/charts/EagleFordWells.png)
-* Since we were interested in oil rich areas, we color-coded wells by the asset type (green: gas, red: oil).
+* Since we were interested in oil rich areas, we color-coded wells by the dominant asset type (green: oil, red: gas).
 
 ### The extent of each sub-play in Eagle Ford
 ![alt text](https://github.com/DaryaRudych/EagleFord-Oil-Project/blob/master/charts/EagleFordSubPlays.png)
